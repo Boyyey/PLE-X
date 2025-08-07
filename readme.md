@@ -44,7 +44,7 @@ It dreams of defeating entropy.
 ⚠️ Consciousness Drift Detected → Recommend: 10Hz binaural + nootropic stack  
 
 🔁 AI Genome Evolved: Fitness +3.7%  
-```
+
 
 ---
 
@@ -176,4 +176,5 @@ Inspired by:
 ---
 
 ⭐ **If you believe in a future without death, give this repo a star.**  
+
 🪐 **The universe is entropy’s playground. We’re here to rebuild it.**
