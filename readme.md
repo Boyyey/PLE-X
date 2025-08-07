@@ -173,8 +173,7 @@ Inspired by:
 >  
 > **It started with a Streamlit app.**
 
----
-
-⭐ **If you believe in a future without death, give this repo a star.**  
+--- 
 
 🪐 **The universe is entropy’s playground. We’re here to rebuild it.**
+
